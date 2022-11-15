@@ -1,0 +1,11 @@
+ques_no,question,option1,option2,option3,option4,correct_option,marks_correct_ans,marks_wrong_ans,compulsory,time=20m
+1,What is the capital of India,Mumbai,Chennai,New Delhi,Kolkata,3,5,-1,n,
+2,21/3=,3,7,9,8,2,4,-1,y,
+3,Capital of France,Paris,Patna,Amhara,London,1,8,-2,n,
+4,c for,ball,cat,dog,goat,2,2,-1,n,
+5,8/2=,5,4,1,6,2,5,-1,n,
+6,2x5=,1,10,3,2,2,5,-1,n,
+7,d for?,apple,elephant,cat,dog,4,5,-1,y,
+8,2-1=,1,2,3,4,1,5,-1,n,
+9,8-9=,13,14,-1,17,3,5,-1,y,
+10,b'+'a'=,fa,om,ba,ca,3,5,-1,n,
